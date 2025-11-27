@@ -12,7 +12,7 @@ Abaixo estão as disciplinas, com links diretos para a pasta que contém o **có
 
 | Icone | Disciplina | Foco Principal | Link para o Conteúdo |
 | :---: | :--- | :--- | :--- |
-| **💡** | Algoritmos e Pensamento Computacional | Fundamentos de lógica e estruturas de dados. | [Acessar Pasta](./Algoritmos%20e%20Pensamento%20Computacional) |
+| **💡** | Algoritmos e Pensamento Computacional | Fundamentos de lógica e estruturas de dados. | [Acessar Pasta]([./Algoritmos%20e%20Pensamento%20Computacional](https://github.com/gabriellima005/DesignProfissional_A1/tree/main/desing%20profissional%20A1/reposit%C3%B3rio_1_semestre/Modelagem_Banco_De_Dados)) |
 | **🌐** | Desenvolvimento Front-End para Web | Estrutura HTML/CSS e o lado visual da aplicação. | [Acessar Pasta](./Desenvolvimento%20Front-End%20para%20Web) |
 | **🛠️** | **Design Profissional** | UI/UX, prototipagem e Design Thinking. | [Acessar Pasta](./Design%20Profissional) |
 | **📝** | Modelagem de Banco de Dados | Criação de modelos conceituais, lógicos e SQL. | [Acessar Pasta](./Modelagem%20de%20Banco%20de%20Dados) |

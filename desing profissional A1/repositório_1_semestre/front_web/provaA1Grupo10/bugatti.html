@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bugatti Veyron</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom shadow-sm">
+        <div class="container">
+            <!-- Logomarca minimalista -->
+            <a class="navbar-brand d-flex align-items-center" href="index.html">
+                <img src="imagens/logo.jfif" alt="Luiz cars" height="70" class="me-2">
+                <div>
+                    <span class="fw-semibold text-dark">LUIZ CARS</span><br>
+                    <small class="text-muted">Automoveis de grande qualidade!</small>
+                </div>
+            </a>
+            <!-- Botão para menu em telas pequenas -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Menu colapsável -->
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link text-primary" href="bugatti.html">bugatti</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-success" href="ferrari.html">Ferrari</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-danger" href="lamborghini.html">lamborghini</a>
+                    </li>
+                    <!-- Dropdown encantado -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-purple" href="#" id="poçõesDropdown" role="button"
+                            data-bs-toggle="dropdown">
+                            carros de luxo
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="poçõesDropdown">
+                            <li><a class="dropdown-item" href="bugatti.html">Bugatti</a>
+                            </li>
+                            <li><a class="dropdown-item" href="ferrari.html">Ferrari</a></li>
+                            <li><a class="dropdown-item" href="lamborghini.html">Lamborghini</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Imagem de destaque -->
+    <section class="bg-light py-5 text-center">
+        <div class="container">
+            <img src="imagens/chiron.jfif" alt="Imagem Bugatti" class="hero-img mb-5">
+            <h1 class="section-title">Bugatti Veyron</h1>
+        </div>
+    </section>
+    <!-- Conteúdo principal com duas colunas -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row g-5">
+                <!-- Coluna 1 -->
+                <div class="col-md-6">
+                    <h2 class="text-primary">Bugatti Veyron</h2>
+                    <p class="lead text-muted">
+                        O Bugatti veyron é um superesportivo da Bugatti conhecido por alcançar 431km/h (na versão super
+                        sport) e se o segundo carro mais rápido do mundo.<br>Porém, o veyron permanece como o carro de rua
+                        mais rápido do mundo sem modificações feitas após a fabricação.
+                       
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Rodapé com redes sociais -->
+    <footer style="background: linear-gradient(135deg, #4599e9 0%, #0a0a18 100%);
+    color: #fff;
+    text-align: center;
+     padding: 2rem 1rem;
+    font-family: 'Poppins', sans-serif;">
+        <div class="container">
+            <p style="margin-bottom: 0.5rem; font-size: 1.2rem;">
+                Explore os carros de luxo mais fantasticos e luxuosos!
+            </p>
+            <!-- Ícones de redes sociais -->
+            <div style="margin: 1rem 0;">
+                <a href="https://www.instagram.com" target="_blank" style="color: #fff; margin: 0 10px;">
+                    <i class="fab fa-instagram fa-lg"></i>
+                </a>
+                <a href="https://www.facebook.com" target="_blank" style="color: #fff; margin: 0 10px;">
+                    <i class="fab fa-facebook fa-lg"></i>
+                </a>
+                <a href="https://www.twitter.com" target="_blank" style="color: #fff; margin: 0 10px;">
+                    <i class="fab fa-twitter fa-lg"></i>
+                </a>
+            </div>
+            <p style="margin-bottom: 0; font-size: 0.9rem;">
+                © 2025 Carros de luxo — Todos os direitos reservados
+            </p>
+        </div>
+    </footer>
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -15,19 +15,6 @@ Este projeto é composto pelo diretório principal da atividade e pelo arquivo d
 | *desing profissional A1/* | Pasta | *Diretório da Atividade.* Contém todos os materiais desenvolvidos e entregues, incluindo documentos de texto, arquivos-fonte de design e protótipos. |
 | *README.md* | Arquivo | *Documentação do Projeto.* Este arquivo, que oferece uma visão geral, o objetivo e a estrutura do repositório. |
 
-### Conteúdo da Pasta desing profissional A1/
-
-Esta seção detalha o conteúdo específico encontrado dentro do diretório principal. *(Por favor, preencha os detalhes abaixo com os nomes reais dos seus arquivos e suas descrições):*
-
-| Nome do Arquivo na Pasta | Descrição |
-| :--- | :--- |
-| [Exemplo: Relatorio_A1.pdf] | [Exemplo: Documento que detalha o processo de pesquisa, análise de concorrentes e justificativa das decisões de design.] |
-| [Exemplo: Protótipo_Figma.fig] | [Exemplo: Arquivo-fonte do protótipo de alta fidelidade, contendo telas e fluxos de usuário.] |
-| [Exemplo: Wireframes.png] | [Exemplo: Imagens estáticas dos wireframes de baixa fidelidade utilizados no estágio inicial do projeto.] |
-| [Nome_do_Seu_Arquivo.extensão] | [Descrição detalhada do propósito deste arquivo no contexto da A1.] |
-
----
-
 ## Como Visualizar e Acessar
 
 Para inspecionar ou clonar o projeto:
@@ -49,6 +36,3 @@ Para inspecionar ou clonar o projeto:
 
 ---
 
-## Licença
-
-[Se o projeto tiver uma licença específica (como MIT, GPL), mencione-a aqui. Caso contrário, você pode remover esta seção.]

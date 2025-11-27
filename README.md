@@ -6,25 +6,24 @@ Este repositório centraliza e documenta todos os projetos, códigos-fonte e ati
 
 ---
 
-## 🎓 Disciplinas e Exemplos Práticos
+## 🎓 Disciplinas e Conteúdos
 
-Para demonstrar a aplicação integrada dos conhecimentos adquiridos, todos os links abaixo direcionam para o projeto chave de **Design Profissional - A1**.
+Abaixo estão as disciplinas, com links diretos para a pasta que contém o **código-fonte**, **entregáveis** e o **README detalhado** de cada matéria:
 
-| Icone | Disciplina | Foco Principal | Link para o Projeto Exemplo |
+| Icone | Disciplina | Foco Principal | Link para o Conteúdo |
 | :---: | :--- | :--- | :--- |
-| **💡** | Algoritmos e Pensamento Computacional | Fundamentos lógicos aplicados à solução de design. | [Acessar Projeto](https://github.com/gabriellima005/DesignProfissional_A1) |
-| **🌐** | Desenvolvimento Front-End para Web | Estrutura HTML/CSS e o lado visual da aplicação. | [Acessar Projeto](https://github.com/gabriellima005/DesignProfissional_A1) |
-| **🛠️** | **Design Profissional** | **Entrega principal de UI/UX, prototipagem e Design Thinking.** | [Acessar Projeto](https://github.com/gabriellima005/DesignProfissional_A1) |
-| **📝** | Modelagem de Banco de Dados | Contexto de negócio para futura modelagem de um sistema. | [Acessar Projeto](https://github.com/gabriellima005/DesignProfissional_A1) |
+| **💡** | Algoritmos e Pensamento Computacional | Fundamentos de lógica e estruturas de dados. | [Acessar Pasta](./Algoritmos%20e%20Pensamento%20Computacional) |
+| **🌐** | Desenvolvimento Front-End para Web | Estrutura HTML/CSS e o lado visual da aplicação. | [Acessar Pasta](./Desenvolvimento%20Front-End%20para%20Web) |
+| **🛠️** | **Design Profissional** | UI/UX, prototipagem e Design Thinking. | [Acessar Pasta](./Design%20Profissional) |
+| **📝** | Modelagem de Banco de Dados | Criação de modelos conceituais, lógicos e SQL. | [Acessar Pasta](./Modelagem%20de%20Banco%20de%20Dados) |
 
 ---
 
 ## 📌 Como Navegar
 
-A forma mais rápida de visualizar o conteúdo é através dos links diretos na tabela acima. O projeto **Design Profissional - A1** serve como um *case study* que engloba a maioria dos conceitos aprendidos no semestre.
+**⚠️ Importante:** Cada pasta de disciplina contém um **README detalhado** que explica as atividades e como executar o código.
 
-**Se for para fins de avaliação:**
-> O repositório **DesignProfissional\_A1** contém o README detalhado, código-fonte e os entregáveis finais do projeto.
+**🚀 Clique no link *Acessar Pasta* na tabela acima** para navegar diretamente aos entregáveis de cada disciplina!
 
 ---
 
